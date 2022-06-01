@@ -223,9 +223,10 @@ P{
 }
 
 html {
+  background-color: #000;
   font-family: 'Nunito', sans-serif;
   font-size: 16px;
-  background-color: #000;
+  
   color: #07050c; }
 
 body {
